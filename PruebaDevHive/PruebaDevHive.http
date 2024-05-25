@@ -1,0 +1,6 @@
+@PruebaDevHive_HostAddress = http://localhost:5062
+
+GET {{PruebaDevHive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
